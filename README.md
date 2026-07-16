@@ -2,7 +2,7 @@
 
 # Hi, I'm Nouman 👋
 
-I'm a Senior Software Engineer with 5+ years of experience building scalable web applications and SaaS products.
+I'm a Senior Software Engineer with 7+ years of experience building scalable web applications and SaaS products.
 
 Currently, I’m working as a Co-Founder, helping startups move fast — from idea to production — by building MVPs that are reliable, scalable, and ready to grow.
 
