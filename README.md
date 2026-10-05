@@ -1,77 +1,68 @@
-> Building products that go from idea → MVP → scale.
+> Building and shipping production web, mobile & AI products, end to end.
 
 # Hi, I'm Nouman 👋
 
-I'm a Senior Software Engineer with 7+ years of experience building scalable web applications and SaaS products.
+I'm a **Senior Full-Stack Engineer** with 6+ years building and shipping web, mobile, and AI products from idea to production. I work across **React, Next.js, and React Native** on the front end and **Node.js, NestJS, Python, Django, and FastAPI** on the back end, deployed on AWS with Docker and CI/CD.
 
-Currently, I’m working as a Co-Founder, helping startups move fast — from idea to production — by building MVPs that are reliable, scalable, and ready to grow.
+I'm the founder and lead engineer at **DiveBridge**, a small product studio, where I've shipped real products end to end for founders across the US, UK, UAE, and Canada. These days a large part of my work is **production AI**: LLM features, RAG, embeddings, and agents using OpenAI and Claude.
+
+🌍 Open to **Senior / Lead Engineer** roles, remote or relocation (visa sponsorship).
 
 ---
 
-## 🚀 What I Do
+## 🚀 Shipped Products
 
-- Design and build MVPs for startups
-- Develop full-stack web applications
-- Architect backend systems with scalability in mind
-- Work closely with founders to turn ideas into real products
+- **JourneyLeg** — AI platform for real-estate agents (Next.js, FastAPI, n8n, AWS)
+- **Auddl** — AI pet-health app, live on Google Play (React Native, OpenAI, Claude)
+- **AI Voice Receptionist** — answers calls, checks the calendar, books real appointments
+- **PropertEast** — property management platform (owners, tenants, vendors)
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**
-- React.js
-- Next.js
-- Modern JavaScript (ES6+)
+- React.js, Next.js, React Native
+- TypeScript, JavaScript (ES6+)
 - Tailwind / CSS
 
 **Backend**
-- FastAPI
-- Django / Django REST Framework
-- Node.js (Express / APIs)
+- Node.js, NestJS
+- Python, Django / DRF, FastAPI
+- REST & GraphQL APIs, Auth & RBAC, Microservices
 
-**Other**
-- PostgreSQL
-- REST APIs
-- System Design
-- Deployment & DevOps basics
+**AI / LLM**
+- OpenAI, Claude, LangChain
+- RAG, Embeddings, Vector Search
+- n8n automation
+
+**Data & Cloud**
+- PostgreSQL, MongoDB, Redis, Supabase
+- AWS, Docker, GitHub Actions, CI/CD
 
 ---
 
 ## 💼 Current Focus
 
-- Building SaaS products for early-stage startups  
-- Exploring AI integrations (LLMs, RAG, automation workflows)  
-- Improving system design and scalable architectures  
+- Shipping production AI features (LLMs, RAG, agents) that real users rely on
+- AI-native development: building with Claude Code and Cursor daily
+- Clean, scalable architecture and reliable, well-tested delivery
 
 ---
 
-## 📌 Approach to Work
+## 📌 How I Work
 
-I focus on:
-- Writing clean, maintainable code  
-- Building fast but not breaking scalability  
-- Keeping things simple and practical  
-- Delivering real business value, not just code  
-
----
-
-## 📈 What You'll Find Here
-
-- Real-world projects (not just tutorials)
-- Backend architectures and APIs
-- SaaS/MVP builds
-- Experiments with AI and modern stacks
+- Own features end to end, from architecture to deployment
+- Write clean, maintainable, well-tested code
+- Build fast without breaking scalability
+- Deliver real business value, not just code
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're building something and need help with:
-- MVP development
-- Backend architecture
-- Scaling your product
+- 🌐 Portfolio: [alinouman.com](https://alinouman.com)
+- 💼 LinkedIn: [linkedin.com/in/noumanali](https://linkedin.com/in/noumanali)
+- 📧 noumanaleburiro@gmail.com
 
-Feel free to reach out or explore my repositories.
-
----
+I'm open to senior and lead engineering roles (remote or relocation). If you're hiring or want to talk shop about production AI, feel free to reach out.
